@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+matplotlib = "*"
+numpy = "*"
+scipy = "*"
+jupyterthemes = "*"
+pandas = "*"
+qgrid = "*"
+rise = "*"
+jupyter-contrib-nbextensions = "*"
+ipywidgets = "*"
+bs4 = "*"
+PyAutoGUI = "*"
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+numpy
+scipy
+jupyterthemes
+pandas
+qgrid
+RISE
+jupyter_contrib_nbextensions
+ipywidgets
+pyautogui
+bs4
